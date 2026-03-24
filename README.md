@@ -10,8 +10,8 @@ Aktuell suche ich eine **Werkstudentenstelle / Praxissemester** im Bereich:
 
 ## 🔧 Tech-Stack
 
-- **Sprachen:**  Java (Erweitert), C/C++ (Grundlagen), PHP (Grundlagen), Kotlin (Grundlagen)
-- **Frameworks & Tools:** Flutter, Figma, Git, Adobe CC, Android Studio, VSCode
+- **Sprachen:**  Java (Erweitert), C/C++ (Grundlagen), PHP (Grundlagen), Kotlin (Grundlagen), HTML/CSS
+- **Frameworks & Tools:** Flutter, Figma, Git, Adobe CC, IntelliJ, CLion, Android Studio, VSCode, WordPress, JavaFX
 - **Interessen:** Gamification, Produktivitätstools, Prototyping, UX für Alltags-Apps
 
 ## 📂 Aktuelle Ziele
