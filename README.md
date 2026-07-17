@@ -4,8 +4,9 @@ Ich studiere Medieninformatik und stehe kurz vor meinem Abschluss.
 Aktuell suche ich eine **Werkstudentenstelle / Praxissemester** im Bereich:
 
 - App-Entwicklung (Flutter)
+- Spiele-Entwicklung (Unreal)
 - Webentwicklung (Frontend || Backend)
-- UI/UX mit technischem Fokus
+- UI/UX
 - Schnittstelle zwischen Design & Entwicklung
 
 ## 🔧 Tech-Stack
